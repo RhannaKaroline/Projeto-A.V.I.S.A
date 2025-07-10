@@ -23,6 +23,5 @@ Uma família que convive com uma pessoa surda instala o sistema **A.V.I.S.A**. e
 
 #### Arquitetura Elétrica
 
-<br>
-<p align="center"> <img src="C:\Users\Mateus Verçosa\Downloads\Arquitetura Elétrica.png" alt="" width="400" /></p>
-<br>
+
+
